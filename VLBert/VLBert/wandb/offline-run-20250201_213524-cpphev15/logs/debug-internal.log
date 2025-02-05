@@ -1,0 +1,14 @@
+{"time":"2025-02-01T21:35:24.99428699Z","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/workspace/VLBert/wandb/offline-run-20250201_213524-cpphev15/logs/debug-core.log"}
+{"time":"2025-02-01T21:35:25.109108346Z","level":"INFO","msg":"created new stream","id":"cpphev15"}
+{"time":"2025-02-01T21:35:25.109160434Z","level":"INFO","msg":"stream: started","id":"cpphev15"}
+{"time":"2025-02-01T21:35:25.109205599Z","level":"INFO","msg":"writer: Do: started","stream_id":"cpphev15"}
+{"time":"2025-02-01T21:35:25.109232067Z","level":"INFO","msg":"sender: started","stream_id":"cpphev15"}
+{"time":"2025-02-01T21:35:25.109243777Z","level":"INFO","msg":"handler: started","stream_id":"cpphev15"}
+{"time":"2025-02-01T21:35:25.116393133Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-01T21:35:39.194051352Z","level":"INFO","msg":"stream: closing","id":"cpphev15"}
+{"time":"2025-02-01T21:35:39.19410687Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-01T21:35:39.194886092Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-01T21:35:39.19501245Z","level":"INFO","msg":"handler: closed","stream_id":"cpphev15"}
+{"time":"2025-02-01T21:35:39.19503867Z","level":"INFO","msg":"sender: closed","stream_id":"cpphev15"}
+{"time":"2025-02-01T21:35:39.195032168Z","level":"INFO","msg":"writer: Close: closed","stream_id":"cpphev15"}
+{"time":"2025-02-01T21:35:39.195199057Z","level":"INFO","msg":"stream: closed","id":"cpphev15"}

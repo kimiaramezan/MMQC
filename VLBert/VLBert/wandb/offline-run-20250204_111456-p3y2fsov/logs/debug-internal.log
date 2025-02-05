@@ -1,0 +1,14 @@
+{"time":"2025-02-04T11:14:56.633934011Z","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/workspace/VLBert/wandb/offline-run-20250204_111456-p3y2fsov/logs/debug-core.log"}
+{"time":"2025-02-04T11:14:56.757649715Z","level":"INFO","msg":"created new stream","id":"p3y2fsov"}
+{"time":"2025-02-04T11:14:56.757733422Z","level":"INFO","msg":"stream: started","id":"p3y2fsov"}
+{"time":"2025-02-04T11:14:56.757787169Z","level":"INFO","msg":"handler: started","stream_id":"p3y2fsov"}
+{"time":"2025-02-04T11:14:56.757776449Z","level":"INFO","msg":"writer: Do: started","stream_id":"p3y2fsov"}
+{"time":"2025-02-04T11:14:56.757829031Z","level":"INFO","msg":"sender: started","stream_id":"p3y2fsov"}
+{"time":"2025-02-04T11:14:56.764178476Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-04T11:15:35.844814696Z","level":"INFO","msg":"stream: closing","id":"p3y2fsov"}
+{"time":"2025-02-04T11:15:35.844881527Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-04T11:15:35.846288399Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-04T11:15:35.846431397Z","level":"INFO","msg":"handler: closed","stream_id":"p3y2fsov"}
+{"time":"2025-02-04T11:15:35.846452654Z","level":"INFO","msg":"writer: Close: closed","stream_id":"p3y2fsov"}
+{"time":"2025-02-04T11:15:35.846479671Z","level":"INFO","msg":"sender: closed","stream_id":"p3y2fsov"}
+{"time":"2025-02-04T11:15:35.846616543Z","level":"INFO","msg":"stream: closed","id":"p3y2fsov"}

@@ -1,0 +1,14 @@
+{"time":"2025-02-03T00:43:28.582245992Z","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/workspace/VLBert/wandb/offline-run-20250203_004328-cr27oium/logs/debug-core.log"}
+{"time":"2025-02-03T00:43:28.705611825Z","level":"INFO","msg":"created new stream","id":"cr27oium"}
+{"time":"2025-02-03T00:43:28.705697655Z","level":"INFO","msg":"stream: started","id":"cr27oium"}
+{"time":"2025-02-03T00:43:28.705744704Z","level":"INFO","msg":"writer: Do: started","stream_id":"cr27oium"}
+{"time":"2025-02-03T00:43:28.705752587Z","level":"INFO","msg":"handler: started","stream_id":"cr27oium"}
+{"time":"2025-02-03T00:43:28.705789407Z","level":"INFO","msg":"sender: started","stream_id":"cr27oium"}
+{"time":"2025-02-03T00:43:28.712263502Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-03T00:58:36.399391841Z","level":"INFO","msg":"stream: closing","id":"cr27oium"}
+{"time":"2025-02-03T00:58:36.399445661Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-03T00:58:36.400313734Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-03T00:58:36.400521813Z","level":"INFO","msg":"handler: closed","stream_id":"cr27oium"}
+{"time":"2025-02-03T00:58:36.400538611Z","level":"INFO","msg":"writer: Close: closed","stream_id":"cr27oium"}
+{"time":"2025-02-03T00:58:36.400605562Z","level":"INFO","msg":"sender: closed","stream_id":"cr27oium"}
+{"time":"2025-02-03T00:58:36.400639917Z","level":"INFO","msg":"stream: closed","id":"cr27oium"}

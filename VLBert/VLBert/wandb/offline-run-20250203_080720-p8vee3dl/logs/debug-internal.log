@@ -1,0 +1,14 @@
+{"time":"2025-02-03T08:07:20.626270984Z","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/workspace/VLBert/wandb/offline-run-20250203_080720-p8vee3dl/logs/debug-core.log"}
+{"time":"2025-02-03T08:07:20.750963149Z","level":"INFO","msg":"created new stream","id":"p8vee3dl"}
+{"time":"2025-02-03T08:07:20.751273597Z","level":"INFO","msg":"stream: started","id":"p8vee3dl"}
+{"time":"2025-02-03T08:07:20.75133655Z","level":"INFO","msg":"sender: started","stream_id":"p8vee3dl"}
+{"time":"2025-02-03T08:07:20.751338754Z","level":"INFO","msg":"handler: started","stream_id":"p8vee3dl"}
+{"time":"2025-02-03T08:07:20.751406615Z","level":"INFO","msg":"writer: Do: started","stream_id":"p8vee3dl"}
+{"time":"2025-02-03T08:07:20.758624572Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-03T08:40:02.29077004Z","level":"INFO","msg":"stream: closing","id":"p8vee3dl"}
+{"time":"2025-02-03T08:40:02.290819702Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-03T08:40:02.291888703Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-03T08:40:02.292081729Z","level":"INFO","msg":"handler: closed","stream_id":"p8vee3dl"}
+{"time":"2025-02-03T08:40:02.292101127Z","level":"INFO","msg":"writer: Close: closed","stream_id":"p8vee3dl"}
+{"time":"2025-02-03T08:40:02.292147729Z","level":"INFO","msg":"sender: closed","stream_id":"p8vee3dl"}
+{"time":"2025-02-03T08:40:02.292400147Z","level":"INFO","msg":"stream: closed","id":"p8vee3dl"}

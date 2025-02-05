@@ -1,0 +1,25 @@
+2025-02-03 13:12:08,214 INFO    MainThread:2134723 [wandb_setup.py:_flush():68] Current SDK version is 0.19.5
+2025-02-03 13:12:08,214 INFO    MainThread:2134723 [wandb_setup.py:_flush():68] Configure stats pid to 2134723
+2025-02-03 13:12:08,214 INFO    MainThread:2134723 [wandb_setup.py:_flush():68] Loading settings from /root/.config/wandb/settings
+2025-02-03 13:12:08,214 INFO    MainThread:2134723 [wandb_setup.py:_flush():68] Loading settings from /workspace/VLBert/wandb/settings
+2025-02-03 13:12:08,214 INFO    MainThread:2134723 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-02-03 13:12:08,215 INFO    MainThread:2134723 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /workspace/VLBert/wandb/offline-run-20250203_131208-5ksptmlm/logs/debug.log
+2025-02-03 13:12:08,215 INFO    MainThread:2134723 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /workspace/VLBert/wandb/offline-run-20250203_131208-5ksptmlm/logs/debug-internal.log
+2025-02-03 13:12:08,215 INFO    MainThread:2134723 [wandb_init.py:init():756] calling init triggers
+2025-02-03 13:12:08,215 INFO    MainThread:2134723 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-02-03 13:12:08,215 INFO    MainThread:2134723 [wandb_init.py:init():789] starting backend
+2025-02-03 13:12:08,443 INFO    MainThread:2134723 [wandb_init.py:init():793] sending inform_init request
+2025-02-03 13:12:08,467 INFO    MainThread:2134723 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-02-03 13:12:08,467 INFO    MainThread:2134723 [wandb_init.py:init():808] backend started and connected
+2025-02-03 13:12:08,471 INFO    MainThread:2134723 [wandb_init.py:init():901] updated telemetry
+2025-02-03 13:12:08,472 INFO    MainThread:2134723 [wandb_init.py:init():926] communicating run to backend with 90.0 second timeout
+2025-02-03 13:12:08,589 INFO    MainThread:2134723 [wandb_init.py:init():984] starting run threads in backend
+2025-02-03 13:12:08,679 INFO    MainThread:2134723 [wandb_run.py:_console_start():2385] atexit reg
+2025-02-03 13:12:08,679 INFO    MainThread:2134723 [wandb_run.py:_redirect():2235] redirect: wrap_raw
+2025-02-03 13:12:08,679 INFO    MainThread:2134723 [wandb_run.py:_redirect():2300] Wrapping output streams.
+2025-02-03 13:12:08,679 INFO    MainThread:2134723 [wandb_run.py:_redirect():2325] Redirects installed.
+2025-02-03 13:12:08,681 INFO    MainThread:2134723 [wandb_init.py:init():1026] run started, returning control to user process
+2025-02-03 13:12:08,682 INFO    MainThread:2134723 [wandb_run.py:_config_callback():1253] config_cb None None {'model': 'vl_bert', 'ques_file': '../Bert_datas/Full_turn_query/shuffled_train_test_dataset_bert_full_turn_poop.tsv', 'doc_file': "<_io.TextIOWrapper name='../Bert_datas/documents.tsv' mode='rt' encoding='UTF-8'>", 'img_tag_dict': '../Bert_datas/Full_turn_query/shuffled_train_test_dataset_bert_full_turn_poop.json', 'img_embed_dict': '../VL-T5/img_feature_all.pkl', 'qrels': "<_io.TextIOWrapper name='../qrels' mode='rt' encoding='UTF-8'>", 'train_pairs': "<_io.TextIOWrapper name='../Bert_datas/Full_turn_query/shuffled_train_full_turn.pairs' mode='rt' encoding='UTF-8'>", 'valid_run': "<_io.TextIOWrapper name='../Bert_datas/Full_turn_query/test_full_turn_reduced.run' mode='rt' encoding='UTF-8'>", 'initial_bert_weights': None, 'model_out_dir': 'models/bert_singleturn'}
+2025-02-03 13:12:09,823 INFO    MainThread:2134723 [wandb_watch.py:_watch():71] Watching
+2025-02-03 14:34:58,465 WARNING MsgRouterThr:2134723 [router.py:message_loop():75] message_loop has been closed

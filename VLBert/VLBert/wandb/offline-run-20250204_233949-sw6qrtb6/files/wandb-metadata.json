@@ -1,0 +1,57 @@
+{
+  "os": "Linux-5.15.0-122-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.9.21",
+  "startedAt": "2025-02-04T23:39:49.777473Z",
+  "args": [
+    "--model",
+    "vl_bert",
+    "--ques_file",
+    "../Bert_datas/Final/Full_turn_query/train_test_dataset_bert_full_turn_poop.tsv",
+    "--doc_file",
+    "../Bert_datas/documents.tsv",
+    "--qrels",
+    "../qrels",
+    "--train_pairs",
+    "../Bert_datas/Final/Full_turn_query/train_full_turn.pairs",
+    "--valid_run",
+    "../Bert_datas/Final/Full_turn_query/test_full_turn_reduced.run",
+    "--model_out_dir",
+    "models/vlbert_fullturn",
+    "--img_embed_dict",
+    "../VL-T5/img_feature_all.pkl",
+    "--img_tag_dict",
+    "../Bert_datas/Final/Full_turn_query/train_test_dataset_bert_full_turn_poop.json"
+  ],
+  "program": "/workspace/VLBert/train_first.py",
+  "codePath": "train_first.py",
+  "root": "/workspace/VLBert",
+  "host": "75dfa709f64b",
+  "executable": "/opt/conda/envs/bert/bin/python",
+  "codePathLocal": "train_first.py",
+  "cpu_count": 32,
+  "cpu_count_logical": 32,
+  "gpu": "Tesla V100-SXM2-32GB",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "75161927680",
+      "used": "46985592832"
+    }
+  },
+  "memory": {
+    "total": "201356206080"
+  },
+  "cpu": {
+    "count": 32,
+    "countLogical": 32
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Tesla V100-SXM2-32GB",
+      "memoryTotal": "34359738368",
+      "cudaCores": 5120,
+      "architecture": "Volta"
+    }
+  ],
+  "cudaVersion": "12.4"
+}

@@ -1,0 +1,14 @@
+{"time":"2025-02-02T11:00:09.058597229Z","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/workspace/VLBert/wandb/offline-run-20250202_110008-kf65fnfc/logs/debug-core.log"}
+{"time":"2025-02-02T11:00:09.173872942Z","level":"INFO","msg":"created new stream","id":"kf65fnfc"}
+{"time":"2025-02-02T11:00:09.173933046Z","level":"INFO","msg":"stream: started","id":"kf65fnfc"}
+{"time":"2025-02-02T11:00:09.173988608Z","level":"INFO","msg":"handler: started","stream_id":"kf65fnfc"}
+{"time":"2025-02-02T11:00:09.174003172Z","level":"INFO","msg":"sender: started","stream_id":"kf65fnfc"}
+{"time":"2025-02-02T11:00:09.173993486Z","level":"INFO","msg":"writer: Do: started","stream_id":"kf65fnfc"}
+{"time":"2025-02-02T11:00:09.17996028Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-02T11:01:12.411972747Z","level":"INFO","msg":"stream: closing","id":"kf65fnfc"}
+{"time":"2025-02-02T11:01:12.412007475Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-02T11:01:12.4127858Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-02T11:01:12.412913241Z","level":"INFO","msg":"handler: closed","stream_id":"kf65fnfc"}
+{"time":"2025-02-02T11:01:12.412928695Z","level":"INFO","msg":"writer: Close: closed","stream_id":"kf65fnfc"}
+{"time":"2025-02-02T11:01:12.412966301Z","level":"INFO","msg":"sender: closed","stream_id":"kf65fnfc"}
+{"time":"2025-02-02T11:01:12.413007179Z","level":"INFO","msg":"stream: closed","id":"kf65fnfc"}
